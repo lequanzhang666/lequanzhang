@@ -1,38 +1,34 @@
 ---
-title: "An example conference paper"
+title: "The Impact of Carbon Emissions Trading on Low-carbon Technology Innovation in China：a Quasi-natural Experiment Based on the Carbon Emissions Trading Pilot"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+
+
+date: "2021-12-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-12-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Environmental Science & Technology*
+publication_short: In *Environmental Science & Technology*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Carbon emissions trading is a market-based environmental regulation tool to promote low-carbon technology innovation and reduce the cost of carbon emissions. This research selects the low-carbon patent quantity indicators of 30 provinces from 2010-2017 to analyze the spatial clustering of low-carbon technology innovation in China by using spatial correlation coefficients and natural break-point method. In order to test the impact of China’s carbon emission trading policy on low-carbon technology innovation, this research uses pilots in seven regions as a quasi-natural experiment of carbon emission trading through DID model. The results show that there has been a significant spatial agglomeration effect in the east-central region, and the establishment of carbon emission trading pilots significantly promotes the regional level of low-carbon technology innovation. Based on the findings, this paper suggests that China should continue to improve the national carbon market, expand the industry coverage of the pilot carbon market, give full play to the role of the carbon emissions trading market in promoting low-carbon technology innovation, and strengthen regional synergistic development to enhance the spatial spillover effect of low-carbon innovation technologies and help achieve the goal of carbon peaking and carbon neutrality.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -76,12 +72,6 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
