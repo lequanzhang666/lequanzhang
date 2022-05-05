@@ -2,6 +2,9 @@
 # Display name
 title: Lequan Zhang
 
+#email
+Email: lequanzhang@foxmail.com
+
 # Is this the primary user of the site?
 superuser: true
 
