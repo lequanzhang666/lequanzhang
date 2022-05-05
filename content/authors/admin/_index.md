@@ -2,7 +2,7 @@
 # Display name
 title: Lequan Zhang
 
-#email
+#email/tagline
 Email: lequanzhang@foxmail.com
 
 # Is this the primary user of the site?
