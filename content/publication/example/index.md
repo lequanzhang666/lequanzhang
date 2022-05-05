@@ -7,6 +7,8 @@ title: "Unveiling Key Drivers of Indirect Carbon Emissions of Chinese Older Hous
 authors:
 
 
+# Author notes (optional)
+
 
 
 date: "2019-10-01T00:00:00Z"
@@ -22,11 +24,10 @@ publishDate: "2019-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *sustainability*
-publication_short: In *sustainability*
+publication: In *Sustainability*
+publication_short: In *Sustainability*
 
 abstract: The rapid urbanization and growing population aging have become salient features in China. Understanding their impacts on household emissions is crucial for designing mitigation policies for household carbon emissions. By integrating Chinese older household survey data with an unconditional quantile regression model, this paper examines the heterogeneous impacts of household characteristics on indirect carbon emissions of older Chinese households. There are three main findings: (1) The effects of urbanization on emissions at different quantiles of carbon emissions appear to be inverted U-shaped, which means that the rise of urbanization level increases carbon emissions more at the middle than at the bottom or the top, and helps to alleviate carbon emission inequality, (2) though carbon emissions rise with the increase of income, there is a clear urban-rural divide in the effects of income on carbon emissions, and (3) the rise in the share of well-educated people contributes to the increase in carbon emissions. The higher the degree of education is, the larger the impact is. These findings contribute to understanding the determinants of carbon emissions and are helpful for policymakers to design targeted policies in reducing carbon emissions from the consumption-side.
-
 
 
 tags: []
