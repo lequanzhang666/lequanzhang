@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Carbon Emissions Trading on Low-carbon Technology Innovation in China：a Quasi-natural Experiment Based on the Carbon Emissions Trading Pilot"
+title: "Unveiling Key Drivers of Indirect Carbon Emissions of Chinese Older Households"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,11 +11,11 @@ authors:
 
 
 
-date: "2021-12-10T00:00:00Z"
+date: "2019-10-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-10T00:00:00Z"
+publishDate: "2019-10-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +24,10 @@ publishDate: "2021-12-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Environmental Science & Technology*
-publication_short: In *Environmental Science & Technology*
+publication: In *sustainability*
+publication_short: In *sustainability*
 
-abstract: Carbon emissions trading is a market-based environmental regulation tool to promote low-carbon technology innovation and reduce the cost of carbon emissions. This research selects the low-carbon patent quantity indicators of 30 provinces from 2010-2017 to analyze the spatial clustering of low-carbon technology innovation in China by using spatial correlation coefficients and natural break-point method. In order to test the impact of China’s carbon emission trading policy on low-carbon technology innovation, this research uses pilots in seven regions as a quasi-natural experiment of carbon emission trading through DID model. The results show that there has been a significant spatial agglomeration effect in the east-central region, and the establishment of carbon emission trading pilots significantly promotes the regional level of low-carbon technology innovation. Based on the findings, this paper suggests that China should continue to improve the national carbon market, expand the industry coverage of the pilot carbon market, give full play to the role of the carbon emissions trading market in promoting low-carbon technology innovation, and strengthen regional synergistic development to enhance the spatial spillover effect of low-carbon innovation technologies and help achieve the goal of carbon peaking and carbon neutrality.
+abstract: The rapid urbanization and growing population aging have become salient features in China. Understanding their impacts on household emissions is crucial for designing mitigation policies for household carbon emissions. By integrating Chinese older household survey data with an unconditional quantile regression model, this paper examines the heterogeneous impacts of household characteristics on indirect carbon emissions of older Chinese households. There are three main findings: (1) The effects of urbanization on emissions at different quantiles of carbon emissions appear to be inverted U-shaped, which means that the rise of urbanization level increases carbon emissions more at the middle than at the bottom or the top, and helps to alleviate carbon emission inequality, (2) though carbon emissions rise with the increase of income, there is a clear urban-rural divide in the effects of income on carbon emissions, and (3) the rise in the share of well-educated people contributes to the increase in carbon emissions. The higher the degree of education is, the larger the impact is. These findings contribute to understanding the determinants of carbon emissions and are helpful for policymakers to design targeted policies in reducing carbon emissions from the consumption-side.
 
 
 tags: []
