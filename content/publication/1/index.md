@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'The Impact of Carbon Emissions Trading on Low-carbon Technology Innovation in China：a Quasi-natural Experiment Based on the Carbon Emissions Trading Pilot'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,13 +24,13 @@ publishDate:
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Environmental Science & Technology*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+abstract: Carbon emissions trading is a market-based environmental regulation tool to promote low-carbon technology innovation and reduce the cost of carbon emissions. This research selects the low-carbon patent quantity indicators of 30 provinces from 2010-2017 to analyze the spatial clustering of low-carbon technology innovation in China by using spatial correlation coefficients and natural break-point method. In order to test the impact of China’s carbon emission trading policy on low-carbon technology innovation, this research uses pilots in seven regions as a quasi-natural experiment of carbon emission trading through DID model. The results show that there has been a significant spatial agglomeration effect in the east-central region, and the establishment of carbon emission trading pilots significantly promotes the regional level of low-carbon technology innovation. Based on the findings, this paper suggests that China should continue to improve the national carbon market, expand the industry coverage of the pilot carbon market, give full play to the role of the carbon emissions trading market in promoting low-carbon technology innovation, and strengthen regional synergistic development to enhance the spatial spillover effect of low-carbon innovation technologies and help achieve the goal of carbon peaking and carbon neutrality.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
