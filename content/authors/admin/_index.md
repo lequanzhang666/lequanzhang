@@ -2,19 +2,18 @@
 # Display name
 title: Lequan Zhang
 
-#email/tagline
-Email: lequanzhang@foxmail.com
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
 role: PhD candidate
+Email: lequanzhang@foxmail.com
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Zhongnan University of Economics and Law
-    url: https:https://www.zuel.edu.cn/
+    url: https://www.zuel.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio:  My research interests include History of Economic Thought, Environmental economics and Economic Growth.
