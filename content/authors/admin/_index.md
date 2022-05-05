@@ -70,7 +70,7 @@ highlight_name: true
 Lequan Zhang is a PhD candidate in Economic at theZhongnan University of Economics and Law. His research interests include History of Economic Thought, Environmental economics and Economic Growth.
 
 
-My email is : lequanzhang@foxmail.com
+My contact is : lequanzhang@foxmail.com
 
 
 
