@@ -8,7 +8,7 @@ superuser: true
 
 # Role/position/tagline
 role: PhD candidate
-Email: lequanzhang@foxmail.com
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -68,6 +68,9 @@ highlight_name: true
 ---
 
 Lequan Zhang is a PhD candidate in Economic at theZhongnan University of Economics and Law. His research interests include History of Economic Thought, Environmental economics and Economic Growth.
+
+
+My email is : lequanzhang@foxmail.com
 
 
 
