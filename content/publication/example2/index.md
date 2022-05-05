@@ -1,5 +1,4 @@
----
-title: "Unveiling Key Drivers of Indirect Carbon Emissions of Chinese Older Households"
+---title: "Unveiling Key Drivers of Indirect Carbon Emissions of Chinese Older Households"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
