@@ -32,7 +32,7 @@ education:
     year: 2026 （Expected）
   - course: BEc in History of Economic Thought
     institution: Zhongnan University of Economics and Law
-    year: 2021
+    year: 2022
   - course: BEc in Economic Statistics
     institution: South-Central Minzu University
     year: 2018
