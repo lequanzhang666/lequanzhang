@@ -1,30 +1,31 @@
 ---
-title: "Unveiling Key Drivers of Indirect Carbon Emissions of Chinese Older Households"
+title: "Have Competitive Electricity Markets Rewarded Flexible Gas-Powered Generation? Australia’s Lessons for ASEAN"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 
 
+# Author notes (optional)
 
 
-date: "2019-10-01T00:00:00Z"
+date: "2022-09-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2022-09-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *sustainability*
-publication_short: In *sustainability*
+publication: In *Springer*
+publication_short: In *Springer*
 
-abstract: The rapid urbanization and growing population aging have become salient features in China. Understanding their impacts on household emissions is crucial for designing mitigation policies for household carbon emissions. By integrating Chinese older household survey data with an unconditional quantile regression model, this paper examines the heterogeneous impacts of household characteristics on indirect carbon emissions of older Chinese households. There are three main findings: (1) The effects of urbanization on emissions at different quantiles of carbon emissions appear to be inverted U-shaped, which means that the rise of urbanization level increases carbon emissions more at the middle than at the bottom or the top, and helps to alleviate carbon emission inequality, (2) though carbon emissions rise with the increase of income, there is a clear urban-rural divide in the effects of income on carbon emissions, and (3) the rise in the share of well-educated people contributes to the increase in carbon emissions. The higher the degree of education is, the larger the impact is. These findings contribute to understanding the determinants of carbon emissions and are helpful for policymakers to design targeted policies in reducing carbon emissions from the consumption-side.
+abstract: The presence of a competitive electricity market, which allows high prices to reflect generation shortage, is often assumed to be a beneficiary factor for gas-powered generation, but the actual impact of a competitive electricity market on gas generation is yet to be examined. Using Australian daily gas and electricity data, this paper investigates whether Australia’s competitive electricity markets have promoted the development of gas power generation (GPG). Considering the significant renewable energy penetration and increasing GPG in Australia and Australia’s highly transparent competitive electricity market, the Australian case offers future scenarios that developing countries may face. The empirical tests fully support the hypothesis, namely GPG is negatively related to generation from VREs and positively related to electricity demand gap and electricity price. The findings suggest that ASEAN should boost gas use, continue electricity market liberalisation and regional electricity market integration.
 
 
 
